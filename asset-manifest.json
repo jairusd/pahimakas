@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pahimakas/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pahimakas/static/js/main.211a4b3e.chunk.js",
+    "main.js.map": "/pahimakas/static/js/main.211a4b3e.chunk.js.map",
+    "runtime-main.js": "/pahimakas/static/js/runtime-main.ebaaea88.js",
+    "runtime-main.js.map": "/pahimakas/static/js/runtime-main.ebaaea88.js.map",
+    "static/js/2.92b2ee46.chunk.js": "/pahimakas/static/js/2.92b2ee46.chunk.js",
+    "static/js/2.92b2ee46.chunk.js.map": "/pahimakas/static/js/2.92b2ee46.chunk.js.map",
+    "static/js/3.d2b18499.chunk.js": "/pahimakas/static/js/3.d2b18499.chunk.js",
+    "static/js/3.d2b18499.chunk.js.map": "/pahimakas/static/js/3.d2b18499.chunk.js.map",
+    "index.html": "/pahimakas/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pahimakas/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.92b2ee46.chunk.js.LICENSE.txt": "/pahimakas/static/js/2.92b2ee46.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pahimakas/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebaaea88.js",
+    "static/js/2.92b2ee46.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.211a4b3e.chunk.js"
+  ]
+}
